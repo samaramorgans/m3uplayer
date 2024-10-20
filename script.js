@@ -1,7 +1,7 @@
 document.addEventListener('DOMContentLoaded', function () {
     // Proxy URL to bypass CORS policy
     const proxyURL = 'https://api.allorigins.win/get?url=';
-    const playlistURL = 'https://github.com/samaramorgan-skype/asdsa2131/blob/main/rus.m3u?raw=true';
+    const playlistURL = 'https://github.com/samaramorgan-skype/asdsa2131/blob/main/russia.m3u?raw=true';
     const proxyPlaylistURL = proxyURL + encodeURIComponent(playlistURL);
 
     fetch(proxyPlaylistURL)
