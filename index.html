@@ -1,6 +1,25 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+
+
+</body>
+</html>
+
+    <style>
+        .small-heading {
+            font-size: 24px; /* Задайте нужный размер */
+        }
+    </style>
+</head>
+<body>
+    <h1 class="small-heading">ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤКаналы</h1>
+</body>
+</html>
+
+
+</body>
+</html>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -17,7 +36,16 @@
     
     <!-- Favicon -->
     <link rel="icon" href="live.gif" type="image/gif">
+<html>
+<head>
 
+</head>
+<body>
+
+
+
+  </script>
+</html>
 </head>
 <body>
 <div id="loading-screen">
@@ -46,3 +74,75 @@
 
 </body>
 </html>
+<style>
+    body {
+      background-color: #000000	;
+      overflow: hidden; /* Запретить прокрутку */
+    }
+
+    .blur-overlay {
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      background-color: rgba(0, 0, 0, 0.5); /* Полупрозрачный черный фон */
+      backdrop-filter: blur(10px); /* Размытие */
+      z-index: 100; /* Поместить над содержимым */
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      transition: opacity 0.3s ease-in-out; /* Плавный переход */
+    }
+
+    .blur-overlay.hidden {
+      opacity: 0;
+      pointer-events: none; /* Запретить взаимодействие */
+    }
+
+    .blur-window {
+      background-color: black;
+      padding: 20px;
+      border-radius: 5px;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+      text-align: center;
+    }
+
+    .close-button {
+      background-color: #c82333; /* Красный цвет */
+      color: white;
+      padding: 10px 20px;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+      transition: background-color 0.3s ease-in-out;
+    }
+
+    .close-button:hover {
+      background-color: #c82333; /* Темнее красный при наведении */
+    }
+  </style>
+</head>
+<body>
+
+  <div class="blur-overlay">
+    <div class="blur-window">
+      <h1>Что нового?</h1>
+      <p>Окно обновлений.</p>
+      <p>Новые надписи.</p>
+      <p>Новые значки.</p>
+      <p>Окно обновлений.</p>
+      <button class="close-button" onclick="closeBlurOverlay()">Ок</button>
+    </div>
+  </div>
+
+  <script>
+    function closeBlurOverlay() {
+      const overlay = document.querySelector('.blur-overlay');
+      overlay.classList.add('hidden');
+    }
+  </script>
+
+</body>
+</html>
+    
