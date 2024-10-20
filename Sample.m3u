@@ -1,0 +1,47 @@
+﻿#EXTM3U
+#EXTINF:-1 group-title="МОСКВА",Первый канал (Москва)
+http://dmi3y-tv.ru/hls/zabava/region/MOS/CH_1TV.m3u8
+#EXTINF:-1 group-title="МОСКВА",Россия 1 (Москва)
+http://dmi3y-tv.ru/hls/zabava/region/MOS/CH_ROSSIA1.m3u8
+#EXTINF:-1 group-title="МОСКВА",Матч! (Москва)
+http://dmi3y-tv.ru/hls/zabava/region/MOS/CH_MATCHTV.m3u8
+#EXTINF:-1 group-title="МОСКВА",НТВ (Москва)
+http://dmi3y-tv.ru/hls/zabava/region/MOS/CH_NTV.m3u8
+#EXTINF:-1 group-title="МОСКВА",Пятый канал (Москва)
+http://dmi3y-tv.ru/hls/zabava/region/MOS/CH_5TV.m3u8
+#EXTINF:-1 group-title="МОСКВА",Россия К (Москва)
+http://dmi3y-tv.ru/hls/zabava/region/MOS/CH_ROSSIAK.m3u8
+#EXTINF:-1 group-title="МОСКВА",Россия 24 (Москва)
+http://dmi3y-tv.ru/hls/zabava/region/MOS/CH_ROSSIA24.m3u8
+#EXTINF:-1 group-title="МОСКВА",Карусель (Москва)
+http://dmi3y-tv.ru/hls/zabava/region/MOS/CH_KARUSEL.m3u8
+#EXTINF:-1 group-title="МОСКВА",ОТР (Москва)
+http://dmi3y-tv.ru/hls/zabava/region/MOS/CH_OTR.m3u8
+#EXTINF:-1 group-title="МОСКВА",ТВЦ (Москва)
+http://dmi3y-tv.ru/hls/zabava/region/MOS/CH_TVC.m3u8
+#EXTINF:-1 group-title="МОСКВА",РЕН ТВ (Москва)
+http://dmi3y-tv.ru/hls/zabava/region/MOS/CH_RENTV.m3u8
+#EXTINF:-1 group-title="МОСКВА",СТС (Москва)
+http://dmi3y-tv.ru/hls/zabava/region/MOS/CH_STS.m3u8
+#EXTINF:-1 group-title="МОСКВА",Домашний (Москва)
+http://dmi3y-tv.ru/hls/zabava/region/MOS/CH_DOMASHNIY.m3u8
+#EXTINF:-1 group-title="МОСКВА",ТВ3 (Москва)
+http://dmi3y-tv.ru/hls/zabava/region/MOS/CH_TV3.m3u8
+#EXTINF:-1 group-title="МОСКВА",Пятница! (Москва)
+http://dmi3y-tv.ru/hls/zabava/region/MOS/CH_FRIDAY.m3u8
+#EXTINF:-1 group-title="МОСКВА",Звезда (Москва)
+http://dmi3y-tv.ru/hls/zabava/region/MOS/CH_ZVEZDA.m3u8
+#EXTINF:-1 group-title="МОСКВА",ТНТ (Москва)
+http://dmi3y-tv.ru/hls/zabava/region/MOS/CH_TNT.m3u8
+#EXTINF:-1 group-title="МОСКВА",Че! (Москва)
+http://dmi3y-tv.ru/hls/zabava/region/MOS/CH_CHE.m3u8
+#EXTINF:-1 group-title="МОСКВА",Ю (Москва)
+http://dmi3y-tv.ru/hls/zabava/region/MOS/CH_U.m3u8
+#EXTINF:-1 group-title="МОСКВА",Солнце (Москва)
+http://dmi3y-tv.ru/hls/zabava/region/MOS/CH_DISNEY.m3u8
+#EXTINF:-1 group-title="МОСКВА",Москва 24 (Москва)
+http://dmi3y-tv.ru/hls/zabava/region/MOS/CH_MOSKVA24.m3u8
+#EXTINF:-1 group-title="МОСКВА",Москва Доверие (Москва)
+http://dmi3y-tv.ru/hls/zabava/region/MOS/CH_MOSKVADOVERIE.m3u8
+#EXTINF:-1 group-title="МОСКВА",ТЕО ТВ HD (Москва)
+http://dmi3y-tv.ru/hls/zabava/region/MOS/CH_TEOTVHD.m3u8
