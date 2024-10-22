@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', function () {
         width: '100%',
         height: '100%',
         autoPlay: true,
-        mediacontrol: {seekbar: "#bb86fc", buttons: "#e0e0e0"},
+        mediacontrol: {seekbar: "#000000", buttons: "#e0e0e0"},
         mute: false,
     });
 
